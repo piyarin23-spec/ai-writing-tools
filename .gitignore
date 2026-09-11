@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+*.log
+streamlit_log.txt
+streamlit_startup.log
+サイト.txt
+AQ.*.txt
+.agents/
